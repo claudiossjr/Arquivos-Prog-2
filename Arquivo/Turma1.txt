@@ -1,0 +1,6 @@
+3123 Claudio  20
+3213 Stella 20
+3423 Rita 45
+3421 Claudio 43
+3231 Caio 9
+3452 Rodrigo 21
